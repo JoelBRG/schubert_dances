@@ -2143,17 +2143,23 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVII64(#2)</name>
+            <minDistance>-5.05819</minDistance>
             <color r="170" g="85" b="0" a="255"/>
+            <offset x="0.16843" y="5.14258"/>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV(#54)</name>
+            <minDistance>-2.44152</minDistance>
             <color r="170" g="0" b="127" a="255"/>
+            <offset x="0.16843" y="7.75924"/>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii6(6#0)</name>
+            <minDistance>0.175147</minDistance>
             <color r="255" g="85" b="0" a="255"/>
+            <offset x="0.16843" y="10.3759"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2170,16 +2176,20 @@
             <harmonyType>1</harmonyType>
             <name>bVII64</name>
             <color r="170" g="85" b="0" a="255"/>
+            <offset x="0" y="5.01415"/>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV(64)</name>
             <color r="170" g="0" b="127" a="255"/>
+            <offset x="0" y="7.41033"/>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii6(6)</name>
+            <minDistance>0.5</minDistance>
             <color r="255" g="85" b="0" a="255"/>
+            <offset x="0" y="9.9388"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
