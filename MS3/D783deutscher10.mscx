@@ -2147,7 +2147,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIIb7</name>
+            <name>bII7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2221,7 +2221,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIIb6b5</name>
+            <name>bII65</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2319,7 +2319,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6</name>
+            <name>Fr</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2347,7 +2347,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2385,7 +2385,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
