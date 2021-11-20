@@ -2209,7 +2209,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V56</name>
+            <name>V65</name>
+            <offset x="0" y="5.34247"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
