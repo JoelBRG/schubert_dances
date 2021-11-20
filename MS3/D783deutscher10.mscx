@@ -2752,7 +2752,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>PAC|i}</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
