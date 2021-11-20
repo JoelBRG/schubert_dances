@@ -1935,7 +1935,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii°65{</name>
+            <name>viio65{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1998,7 +1998,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii°43</name>
+            <name>viio43</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2387,7 +2387,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{V</name>
+            <name>V{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2442,7 +2442,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>d.vii°</name>
+            <name>d.viio</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2552,7 +2552,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>C.vii°</name>
+            <name>C.viio</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
